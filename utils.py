@@ -28,6 +28,7 @@ def dump_config():
 
 def get_config(key: str):
     '''获取指定配置'''
+    load_config()
     return config.get(key)
 
 

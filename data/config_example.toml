@@ -1,10 +1,15 @@
+main_group_id = 549600753    # 幻梦计划群号
+
 [switch."plugins.all_mute"]
+# 每天自动全员禁言
 auto = false
 
 ["plugins.all_mute"]
     ["plugins.all_mute".start_time]
+    # 全员禁言开始时间
     hour = 1
     minute = 0
     ["plugins.all_mute".end_time]
+    # 全员禁言结束时间
     hour = 6
     minute = 0

@@ -1,0 +1,13 @@
+# PYTHON CACHE
+__pycache__/
+*.pyc
+
+# VSCODE CACHE
+.vscode
+tempCodeRunnerFile.py
+
+# KOSUZU
+data/cache/
+data/voices/
+data/images/
+config.py

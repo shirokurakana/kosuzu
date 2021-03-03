@@ -1,0 +1,10 @@
+[switch."plugins.all_mute"]
+auto = false
+
+["plugins.all_mute"]
+    ["plugins.all_mute".start_time]
+    hour = 1
+    minute = 0
+    ["plugins.all_mute".end_time]
+    hour = 6
+    minute = 0

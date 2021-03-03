@@ -8,6 +8,8 @@ authors = ["shirokurakana <admin@thdog.moe>"]
 python = "^3.8"
 nonebot = "^1.8.2"
 APScheduler = "^3.7.0"
+toml = "^0.10.2"
+ujson = "^4.0.2"
 
 [tool.poetry.dev-dependencies]
 

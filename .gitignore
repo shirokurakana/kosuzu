@@ -11,3 +11,5 @@ data/cache/
 data/voices/
 data/images/
 config.py
+config.toml
+plugins/bililive/bililiveconfig.json
